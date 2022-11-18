@@ -1,4 +1,7 @@
 # WeatherAppDjango
+
+Summary: can look up air quality by ZIP code
+
 Tech: Python, Django
 
 API used: https://docs.airnowapi.org/
