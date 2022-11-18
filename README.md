@@ -1,4 +1,5 @@
 # WeatherAppDjango
+Tech: Python, Django
 
 API used: https://docs.airnowapi.org/
 
